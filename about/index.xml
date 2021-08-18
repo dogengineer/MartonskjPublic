@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>I am an Italian artist based in the Netherlands. My work incorporates the perspective of intersectional feminism, adressing issues such as diversity and self acceptance on Martina Martonskj</title>
-    <link>http://martonsky.com/about/</link>
+    <link>https://dogengineer.github.io/MartonskjPublic/about/</link>
     <description>Recent content in I am an Italian artist based in the Netherlands. My work incorporates the perspective of intersectional feminism, adressing issues such as diversity and self acceptance on Martina Martonskj</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://martonsky.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://dogengineer.github.io/MartonskjPublic/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

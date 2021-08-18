@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Privacy &amp; Policy on Martina Martonskj</title>
-    <link>http://martonsky.com/privacy-policy/</link>
+    <link>https://dogengineer.github.io/MartonskjPublic/privacy-policy/</link>
     <description>Recent content in Privacy &amp; Policy on Martina Martonskj</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://martonsky.com/privacy-policy/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://dogengineer.github.io/MartonskjPublic/privacy-policy/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
