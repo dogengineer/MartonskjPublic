@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Martina Martonskj</title>
-    <link>https://dogengineer.github.io/MartonskjPublic/tags/</link>
-    <description>Recent content in Tags on Martina Martonskj</description>
+    <title>Tags on Martina Martonsky</title>
+    <link>https://martonsky.com/tags/</link>
+    <description>Recent content in Tags on Martina Martonsky</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://dogengineer.github.io/MartonskjPublic/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://martonsky.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

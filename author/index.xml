@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Martina Martonskj</title>
-    <link>https://dogengineer.github.io/MartonskjPublic/author/</link>
-    <description>Recent content in Authors on Martina Martonskj</description>
+    <title>Authors on Martina Martonsky</title>
+    <link>https://martonsky.com/author/</link>
+    <description>Recent content in Authors on Martina Martonsky</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://dogengineer.github.io/MartonskjPublic/author/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://martonsky.com/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>John Doe</title>
-      <link>https://dogengineer.github.io/MartonskjPublic/author/john-doe/</link>
+      <link>https://martonsky.com/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dogengineer.github.io/MartonskjPublic/author/john-doe/</guid>
+      <guid>https://martonsky.com/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.</description>
     </item>
     
