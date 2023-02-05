@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Works on Martina Martonsky</title>
+    <link>https://martonsky.com/personal/</link>
+    <description>Recent content in Personal Works on Martina Martonsky</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://martonsky.com/personal/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
